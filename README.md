@@ -1,4 +1,4 @@
-# Predicción de Churn - Telecom X
+# Predicción Abandono - Telecom X
 
 Este proyecto desarrolla un modelo de Machine Learning para predecir la cancelación de clientes (Churn) en una empresa de telecomunicaciones. El objetivo es identificar a los clientes con alta probabilidad de abandono y proponer estrategias de retención basadas en datos.
 
